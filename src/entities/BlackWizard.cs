@@ -1,4 +1,4 @@
-namespace JogoRPG.src.entities
+namespace JogoRPG
 {
     public class BlackWizard : Hero
     {
@@ -8,8 +8,12 @@ namespace JogoRPG.src.entities
             this.HeroType = HeroType;
         }
 
-        public virtual string Attack(){
+        public override string Attack(){
             return this.Name + "atacou usando magia negra.";
+        }
+
+        public string Attack(int Bonus){
+            return "";
         }
     }
 }

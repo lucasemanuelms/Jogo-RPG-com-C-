@@ -1,4 +1,4 @@
-namespace JogoRPG.src.entities
+namespace JogoRPG
 {
     public class Knight : Hero
     {
@@ -8,8 +8,16 @@ namespace JogoRPG.src.entities
             this.HeroType = HeroType;
         }
 
-        public virtual string Attack(){
-            return this.Name + "atacou usando sua espada.";
+        public override string Attack(){
+            return this.Name + " atacou usando sua espada.";
+        }
+
+        public string Attack(int Bonus){
+            if(Bonus > 7){
+                return this.Name + " atacou usando sua espada em chamas e com um bônus de " + Bonus + ".";
+            }else{
+                return this.Name + " atacou usando sua espada dourada e com um bônus de " + Bonus + ".";
+            }
         }
     }
 }
