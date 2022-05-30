@@ -6,7 +6,8 @@ namespace JogoRPG
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Hero teste = new Hero("Arus", 41, "Cavaleiro");
+            System.Console.WriteLine(teste.ToString());
         }
     }
 }

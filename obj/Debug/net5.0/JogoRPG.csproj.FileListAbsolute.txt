@@ -1,0 +1,16 @@
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\obj\Debug\net5.0\JogoRPG.csproj.AssemblyReference.cache
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\obj\Debug\net5.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\obj\Debug\net5.0\JogoRPG.AssemblyInfoInputs.cache
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\obj\Debug\net5.0\JogoRPG.AssemblyInfo.cs
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\obj\Debug\net5.0\JogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\bin\Debug\net5.0\JogoRPG.exe
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\bin\Debug\net5.0\JogoRPG.deps.json
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\bin\Debug\net5.0\JogoRPG.runtimeconfig.json
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\bin\Debug\net5.0\JogoRPG.runtimeconfig.dev.json
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\bin\Debug\net5.0\JogoRPG.dll
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\bin\Debug\net5.0\ref\JogoRPG.dll
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\bin\Debug\net5.0\JogoRPG.pdb
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\obj\Debug\net5.0\JogoRPG.dll
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\obj\Debug\net5.0\ref\JogoRPG.dll
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\obj\Debug\net5.0\JogoRPG.pdb
+C:\Users\lucas.mendes\Documents\LucasEmanuel\JogoRPG\obj\Debug\net5.0\JogoRPG.genruntimeconfig.cache
