@@ -9,11 +9,15 @@ namespace JogoRPG
         }
 
         public override string Attack(){
-            return this.Name + "atacou usando magia negra.";
+            return this.Name + " atacou usando magia negra.";
         }
 
         public string Attack(int Bonus){
-            return "";
+            if(Bonus > 7){
+                return this.Name + " atacou usando seu poder de invocação de um monstro com magia negra, com um bônus de " + Bonus + ".";
+            }else{
+                return this.Name + " atacou usando sua magia negra (golpe um pouco mais fraco) e com um bônus de " + Bonus + ".";
+            }
         }
     }
 }

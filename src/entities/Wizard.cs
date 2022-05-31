@@ -9,11 +9,15 @@ namespace JogoRPG
         }
 
         public override string Attack(){
-            return this.Name + "atacou usando sua magia.";
+            return this.Name + " atacou usando sua magia.";
         }
 
         public string Attack(int Bonus){
-            return "";
+            if(Bonus > 7){
+                return this.Name + " atacou usando seu poder de invocação, com um bônus de " + Bonus + ".";
+            }else{
+                return this.Name + " atacou usando seu poder de telecinese e com um bônus de " + Bonus + ".";
+            }
         }
     }
 }
